@@ -18,6 +18,6 @@ Let's Connect
 
 LinkedIn: 🔗 https://www.linkedin.com/in/rishi-k-soni-837381182
 
-LeetCode: 💻 https://leetcode.com/Nekkiii/
+LeetCode: 💻 https://leetcode.com/rishisoni420
 
 Thanks for stopping by! Let's build something awesome together! 🚀
