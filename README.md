@@ -10,7 +10,9 @@ Java: ☕️ Spring Boot: 🍃 HTML: 🌐 CSS: 🎨 JavaScript: 📜 Angular: �
 
 Projects Highlights
 
-https://github.com/rishisoni90/MoviesRecommenderSystem.git)](https://github.com/rishisoni90/MoviesRecommenderSystem.git
+https://github.com/rishisoni90/MoviesRecommenderSystem.git
+
+https://github.com/rishisoni90/MoviesRecommenderSystem.git
 
 https://github.com/rishisoni90/FILE-SYNC-APPLICATION.git
 
