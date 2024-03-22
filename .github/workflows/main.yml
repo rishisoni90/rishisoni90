@@ -16,6 +16,11 @@ jobs:
         id: set-username
         run: echo "::set-output name=USERNAME::Hi Rishi"
 
+      - name: Configure Git
+        run: |
+          git config --global user.email "soni.rishi16@outlook.com"
+          git config --global user.name "rishisoni90"
+
       - name: Update README
         run: |
           sed -i 's/${rishisoni90}/'"${{ steps.set-username.outputs.USERNAME }}"/ README.md
