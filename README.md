@@ -1,11 +1,3 @@
-# Hi Rishi!
-
-This is a dynamic README template that displays your name moving all the time.
-
-Your GitHub username is: ${USERNAME}
-
-
-
 
 Hello, Gitians !! 👋
 
