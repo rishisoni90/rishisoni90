@@ -1,16 +1,28 @@
-name: Latest blog post workflow
+name: Update README
+
 on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: rishisoni90/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/rishisoni90"
+      - name: Checkout code
+        uses: actions/checkout@v2
+      
+      - name: Set username
+        id: set-username
+        run: echo "::set-output name=USERNAME::$(git config user.name)"
+
+      - name: Update README
+        run: sed -i 's/${rishisoni90}/'"${{ steps.set-username.outputs.USERNAME }}"/ README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "soni.rishi16@outlook.com"
+          git config --global user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README with dynamic username"
+          git push
