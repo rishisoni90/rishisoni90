@@ -14,7 +14,7 @@ jobs:
       
       - name: Set username
         id: set-username
-        run: echo "::set-output name=USERNAME::Hello, RISHI !!"
+        run: echo "::set-output name=USERNAME::Hi Rishi"
 
       - name: Update README
         run: |
