@@ -17,12 +17,6 @@ jobs:
         run: echo "::set-output name=USERNAME::$(git config user.name)"
 
       - name: Update README
-        run: sed -i 's/${rishisoni90}/'"${{ steps.set-username.outputs.USERNAME }}"/ README.md
-
-      - name: Commit changes
         run: |
-          git config --global user.email "soni.rishi16@outlook.com"
-          git config --global user.name "GitHub Actions"
-          git add README.md
-          git commit -m "Update README with dynamic username"
-          git push
+          sed -i 's/${rishisoni90}/'"${{ steps.set-username.outputs.USERNAME }}"/ README.md
+          git diff --exit-code || (git add README.md && git commit -m "Update README with dynamic username" && git push)
