@@ -1,5 +1,3 @@
- Hello, I'm ${USERNAME}!
-
 
 Hello, Gitians !! 👋
 
