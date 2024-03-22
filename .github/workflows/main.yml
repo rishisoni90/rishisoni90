@@ -24,4 +24,4 @@ jobs:
       - name: Update README
         run: |
           sed -i 's/${rishisoni90}/Hi Rishi/' README.md
-          git diff --exit-code || (git add README.md && git commit -m "Update README with dynamic username" && git push https://$PAT_TOKEN@github.com/rishisoni90/rishisoni90.git)
+          git diff --exit-code || (git add README.md && git commit -m "Update README with dynamic username" && git push https://$repo@github.com/rishisoni90/rishisoni90.git)
