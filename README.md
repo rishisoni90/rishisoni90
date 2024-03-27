@@ -21,6 +21,7 @@ Spring Boot: 🍃
 HTML: 🌐 
 CSS: 🎨 
 JavaScript: 📜 
+React: ⚛️
 Angular: 🅰️ 
 Jenkins: 🛠️ 
 Python: 🐍 
