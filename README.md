@@ -46,3 +46,5 @@ LinkedIn: 🔗 https://www.linkedin.com/in/rishi-k-soni-837381182
 LeetCode: 💻 https://leetcode.com/rishisoni420
 
 Thanks for stopping by! Let's build something awesome together! 🚀
+
+![snake gif](https://github.com/rishisoni90/rishisoni90/blob/output/github-contribution-grid-snake.gif)
