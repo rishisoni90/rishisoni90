@@ -31,13 +31,6 @@ Eclipse: 🌒
 WebStorm: 🌩️ 
 VSCode: 🧰
 
-Projects Highlights
-
-https://github.com/rishisoni90/MoviesRecommenderSystem.git
-
-https://github.com/rishisoni90/MoviesRecommenderSystem.git
-
-https://github.com/rishisoni90/FILE-SYNC-APPLICATION.git
 
 Let's Connect
 
