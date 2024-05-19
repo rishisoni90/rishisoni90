@@ -2,7 +2,7 @@
     <h1 style="animation: slideDown 1s ease-in-out;">Welcome to My Page</h1>
 </div>
 
-# Namaste, Gitians! 👋 :india:
+# Namaste, Gitians! 👋 IN
 
  I'm **Rishi Soni**, a Senior Associate Engineer 👨‍💻 [![Experience](https://img.shields.io/badge/Experience-2%20years%2010%20months-green)](https://github.com/rishisoni90).
 
