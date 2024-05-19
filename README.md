@@ -38,11 +38,13 @@ About Me
 
 
 
-Let's Connect
+# Let's Connect
 
-LinkedIn: 🔗 https://www.linkedin.com/in/rishi-k-soni-837381182
+| Platform | Link |
+|----------|------|
+| LinkedIn | 🔗 [https://www.linkedin.com/in/rishi-k-soni-837381182](https://www.linkedin.com/in/rishi-k-soni-837381182) |
+| LeetCode | 💻 [https://leetcode.com/rishisoni420](https://leetcode.com/rishisoni420) |
 
-LeetCode: 💻 https://leetcode.com/rishisoni420
 
 Thanks for stopping by! Let's build something awesome together! 🚀
 
