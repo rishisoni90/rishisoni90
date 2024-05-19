@@ -14,25 +14,28 @@ About Me
 😄 Pronouns: He/Him. 
 ⚡ Fun fact: I always have solutions to any problems.
 
-Languages and Tools
+# Languages and Tools
 
-Java: ☕️ 
-Spring Boot: 🍃 
-HTML: 🌐 
-CSS: 🎨 
-JavaScript: 📜 
-React: ⚛️
-Angular: 🅰️ 
-Jenkins: 🛠️ 
-Python: 🐍 
-MySQL: 🐬 
-SQL: 💽 
-Node js: 🟩
-Express : 
-AWS : A$$$$W$$$$S
-Eclipse: 🌒 
-WebStorm: 🌩️ 
-VSCode: 🧰
+| Language/Tool | Emoji |
+|---------------|-------|
+| Java          | ☕️    |
+| Spring Boot   | 🍃    |
+| HTML          | 🌐    |
+| CSS           | 🎨    |
+| JavaScript    | 📜    |
+| React         | ⚛️    |
+| Angular       | 🅰️    |
+| Jenkins       | 🛠️    |
+| Python        | 🐍    |
+| MySQL         | 🐬    |
+| SQL           | 💽    |
+| Node.js       | 🟩    |
+| Express       |       |
+| AWS           | A$$$$W$$$$S |
+| Eclipse       | 🌒    |
+| WebStorm      | 🌩️    |
+| VSCode        | 🧰    |
+
 
 
 Let's Connect
