@@ -11,7 +11,7 @@
 
 ## About Me 
 
-As a Computer Science Graduate Alumni with a Master's Degree from The University of Texas at Arlington, I am deeply passionate about software development. I find the process of starting with a blank file and ending up with something useful or even brilliant incredibly intriguing. I am motivated by the ever-changing nature of the industry, from new frameworks and programming languages to acquisitions and emerging technologies, which ensures that developers are always engaged and learning.
+As a Computer Science Graduate Alumni with a Master's Degree from The University of Texas at Arlington, I am deeply passionate about Software development. I find the process of starting with a blank file and ending up with something useful or even brilliant incredibly intriguing. I am motivated by the ever-changing nature of the industry, from new frameworks and programming languages to acquisitions and emerging technologies, which ensures that developers are always engaged and learning.
 
 
 ## Rishi Soni's Profile
