@@ -2,16 +2,6 @@
     <h1 style="animation: slideDown 1s ease-in-out;">Welcome to My Page</h1>
 </div>
 
-<style>
-    @keyframes slideDown {
-        0% {
-            transform: translateY(-100%);
-        }
-        100% {
-            transform: translateY(0);
-        }
-    }
-</style>
 # Hello, Gitians! 👋
 
 I'm Rishi Soni, a Senior Associate Engineer 👨‍💻. Welcome to my GitHub!
