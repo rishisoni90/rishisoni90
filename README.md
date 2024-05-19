@@ -5,11 +5,14 @@ I'm Rishi Soni, a Senior Associate Engineer 👨‍💻 who loves coding. Welcom
 
 ## About Me 
 
-🔭 **Currently working with:**  
+👷 **Currently with:**
+**Capital One** 🏦
+
+🔭 **Ex Employeer with:**  
 **Ford Motors** 🚗
 
 🌱 **Currently learning:**  
-**Python** 🐍, **AI** - **ML** 🤖
+**Python** 🐍, **AI** - **ML** 🤖 **AWS** ☁️
 
 👯 **Looking to collaborate on:**  
 Any technologies to challenge myself by learning and implementing that knowledge.
