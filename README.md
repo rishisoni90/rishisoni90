@@ -5,14 +5,29 @@ I'm Rishi Soni, a Senior Associate Engineer 👨‍💻 who loves coding. Welcom
 
 ## About Me 
 
-- 🔭 I’m currently working with **Ford Motors** 🚗.
-- 🌱 I’m currently learning **Python** 🐍, **AI** - **ML** 🤖.
-- 👯 I’m looking to collaborate on any technologies to challenge myself by learning and implementing that knowledge.
-- 🤔 I’m looking for connections 🔗.
-- 💬 Ask me about anything.
-- 📫 How to reach me: [soni.rishi16@outlook.com](mailto:soni.rishi16@outlook.com) ✉️.
-- 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: I always have solutions to any problems.
+🔭 **Currently working with:**  
+**Ford Motors** 🚗
+
+🌱 **Currently learning:**  
+**Python** 🐍, **AI** - **ML** 🤖
+
+👯 **Looking to collaborate on:**  
+Any technologies to challenge myself by learning and implementing that knowledge.
+
+🤔 **Seeking connections:**  
+I'm always open to networking and making new connections 🔗.
+
+💬 **Ask me about anything:**  
+Feel free to reach out with questions or for a chat.
+
+📫 **How to reach me:**  
+[soni.rishi16@outlook.com](mailto:soni.rishi16@outlook.com) ✉️
+
+😄 **Pronouns:**  
+He/Him
+
+⚡ **Fun fact:**  
+I always have solutions to any problems.
 
 # Languages and Tools
 
