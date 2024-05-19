@@ -12,7 +12,7 @@ I'm Rishi Soni, a Senior Associate Engineer 👨‍💻 who loves coding. Welcom
 **Ford Motors** 🚗
 
 🌱 **Currently learning:**  
-**Python** 🐍, **AI** - **ML** 🤖 **AWS** ☁️
+**Python** 🐍,  **AWS** ☁️
 
 👯 **Looking to collaborate on:**  
 Any technologies to challenge myself by learning and implementing that knowledge.
