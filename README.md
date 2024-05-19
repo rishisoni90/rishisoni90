@@ -25,7 +25,7 @@ As a Computer Science Graduate Alumni with a Master's Degree from The University
 <img src = "https://imgs.search.brave.com/IFZ4OyrLP6pDJ3WxwWA4Qcvmf9RgztlUFa_Vlog-AzQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE0/LzAyL2ZvcmQtbG9n/by0yLnBuZw" style="width: 70px;">
 
 🌱 **Currently learning:**  
-**Python** 🐍,  **AWS** ☁️
+**Python** 🐍,  **AWS** <img src="https://imgs.search.brave.com/9uNE7c9fShntsklc0OvPd6xPFMTzdKTMhnNH2pmwv4Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvQVdT/LUxvZ28tUE5HLnBu/Zw" style="width: 70px;">
 
 👯 **Looking to collaborate on:**  
 Any technologies to challenge myself by learning and implementing that knowledge.
