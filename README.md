@@ -62,7 +62,7 @@ I always have solutions to any problems.
 | SQL           | 💽    |
 | Node.js       | 🟩    |
 | Express       |       |
-| AWS           | A$$$$W$$$$S |
+| AWS           | <img src="https://imgs.search.brave.com/9uNE7c9fShntsklc0OvPd6xPFMTzdKTMhnNH2pmwv4Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTMvQVdT/LUxvZ28tUE5HLnBu/Zw" style="width: 70px;"> |
 | Eclipse       | 🌒    |
 | WebStorm      | 🌩️    |
 | VSCode        | 🧰    |
