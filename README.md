@@ -2,7 +2,8 @@
     <h1 style="animation: slideDown 1s ease-in-out;">Welcome to My Page</h1>
 </div>
 
-# Namaste, Gitians! 👋 IN
+# Namaste, Gitians! 👋 ![Indian Flag]((https://em-content.zobj.net/source/apple/118/flag-for-india_1f1ee-1f1f3.png))
+
 
  I'm **Rishi Soni**, a Senior Associate Engineer 👨‍💻 [![Experience](https://img.shields.io/badge/Experience-2%20years%2010%20months-green)](https://github.com/rishisoni90).
 
