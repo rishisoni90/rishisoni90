@@ -73,7 +73,7 @@ I always have solutions to any problems.
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | 🔗 [https://www.linkedin.com/in/rishi-k-soni-837381182](https://www.linkedin.com/in/rishi-k-soni-837381182) |
+| <img src="https://imgs.search.brave.com/Z4tzkHgsMw-bIt6x5iWiYUP3cIEOuKvMnPul3MLE70U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ibG9n/LndhYWxheHkuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzAxL2luZGV4LnBu/Zw" style="width: 40px;">  | 🔗 [https://www.linkedin.com/in/rishi-k-soni-837381182](https://www.linkedin.com/in/rishi-k-soni-837381182) |
 | LeetCode | 💻 [https://leetcode.com/rishisoni420](https://leetcode.com/rishisoni420) |
 
 
