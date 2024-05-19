@@ -1,7 +1,7 @@
 
 # Hello, Gitians! 👋
 
-I'm Rishi Soni, a Senior Associate Engineer 👨‍💻 who loves coding. Welcome to my GitHub!
+I'm Rishi Soni, a Senior Associate Engineer 👨‍💻. Welcome to my GitHub!
 
 ## About Me 
 
