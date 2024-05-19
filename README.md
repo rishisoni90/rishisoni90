@@ -5,7 +5,7 @@ I'm Rishi Soni, a Senior Associate Engineer 👨‍💻 who loves coding. Welcom
 
 ## About Me 
 
-👷 **Currently with:**
+👷 **Currently with:**  
 **Capital One** 🏦
 
 🔭 **Ex Employeer with:**  
