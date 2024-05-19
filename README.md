@@ -22,7 +22,7 @@ As a Computer Science Graduate Alumni with a Master's Degree from The University
 <img src="https://imgs.search.brave.com/L54bSJIf2qkv9s2246WxsddS6VH0w9syyyBnrCuetj4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk4L0NhcGl0YWxf/T25lX2xvZ28uc3Zn.svg" style="width: 70px;">
 
 🔭 **Ex Employeer with:**  
-**Ford Motors** 🚗
+<img src = "https://imgs.search.brave.com/IFZ4OyrLP6pDJ3WxwWA4Qcvmf9RgztlUFa_Vlog-AzQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE0/LzAyL2ZvcmQtbG9n/by0yLnBuZw" style="width: 70px;">
 
 🌱 **Currently learning:**  
 **Python** 🐍,  **AWS** ☁️
