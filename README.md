@@ -18,7 +18,7 @@ As a Computer Science Graduate Alumni with a Master's Degree from The University
 
 
 👷 **Currently with:**  
-**Capital One** 
+
 <img src="https://imgs.search.brave.com/L54bSJIf2qkv9s2246WxsddS6VH0w9syyyBnrCuetj4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk4L0NhcGl0YWxf/T25lX2xvZ28uc3Zn.svg" style="width: 70px;">
 
 🔭 **Ex Employeer with:**  
