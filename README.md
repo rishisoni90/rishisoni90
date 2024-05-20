@@ -2,7 +2,12 @@
     <h1 style="animation: slideDown 1s ease-in-out;">Welcome to My Page</h1>
 </div>
 
-# Namaste  <img src="https://em-content.zobj.net/source/apple/118/flag-for-india_1f1ee-1f1f3.png" alt="Indian Flag" style="width: 20px;"> , # Gitians ! 👋
+# Namaste  <img src="https://em-content.zobj.net/source/apple/118/flag-for-india_1f1ee-1f1f3.png" alt="Indian Flag" style="width: 20px;"> , <span>🟥</span><span style="color: black;">G</span>
+  <span>🟧</span><span style="color: black;">i</span>
+  <span>🟨</span><span style="color: black;">t</span>
+  <span>🟩</span><span style="color: black;">H</span>
+  <span>🟦</span><span style="color: black;">u</span>
+  <span>🟪</span><span style="color: black;">b</span> ! 👋
 
 
 
