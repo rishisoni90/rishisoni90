@@ -2,9 +2,9 @@
     <h1 style="animation: slideDown 1s ease-in-out;">Welcome to My Page</h1>
 </div>
 
-# Namaste  <img src="https://em-content.zobj.net/source/apple/118/flag-for-india_1f1ee-1f1f3.png" alt="Indian Flag" style="width: 20px;"> ,  <h1>
+# Namaste  <img src="https://em-content.zobj.net/source/apple/118/flag-for-india_1f1ee-1f1f3.png" alt="Indian Flag" style="width: 20px;"> , 
   <span style="color: #DD0031">G</span><span style="color: #C3002F">i</span><span style="color: #B31000">t</span><span style="color: #A30000">i</span><span style="color: #930000">a</span><span style="color: #830000">n</span><span style="color: #730000">s</span>
-</h1>! 👋
+! 👋
 
 
 
