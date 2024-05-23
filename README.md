@@ -75,7 +75,6 @@ I always have solutions to any problems.
       <b>1. FullStack-Angular-SpringBoot</b>
       <br>
       Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.
-Mar 2024 - Mar 2024Mar 2024 - Mar 2024
 Create: Involves adding new records to the database. For example, creating a new customer entry in a customer database.
 Read: Involves retrieving or reading existing records from the database. For example, fetching the details of a specific customer from the database.
 Update: Involves modifying existing records in the database. For example, updating the email address of a customer in the database.
