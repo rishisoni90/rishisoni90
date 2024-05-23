@@ -83,6 +83,8 @@ Delete: Involves removing existing records from the database. For example, delet
       <br>
       <a href="https://github.com/rishisoni90/project1">git@github.com:rishisoni90/FullStack-Angular-SpringBoot-.git</a>
     </td>
+  </tr>
+    <tr>
     <td>
       <b>2. CRUD Spring</b>
       <br>
