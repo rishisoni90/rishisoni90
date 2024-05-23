@@ -72,7 +72,7 @@ I always have solutions to any problems.
 <table>
   <tr>
     <td>
-      <b>1. FullStack-Angular-SpringBoot</b>
+      <b> FullStack-Angular-SpringBoot</b>
       <br>
       Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.
 Create: Involves adding new records to the database. For example, creating a new customer entry in a customer database.
@@ -84,13 +84,7 @@ Delete: Involves removing existing records from the database. For example, delet
     </td>
   </tr>
     <tr>
-    <td>
-      <b>2. CRUD Spring</b>
-      <br>
-      Basic CRUD Operations
-      <br>
-      <a href="https://github.com/rishisoni90/project2">git@github.com:rishisoni90/CRUD-Spring.git</a>
-    </td>
+   
   
   </tr>
 </table>
