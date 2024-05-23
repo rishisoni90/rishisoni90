@@ -67,29 +67,30 @@ I always have solutions to any problems.
 | WebStorm      | 🌩️    |
 | VSCode        | 🧰    |
 
+
+## HighLights
 <table>
   <tr>
     <td>
-      <b>Project 1</b>
+      <b>FullStack-Angular-SpringBoot</b>
       <br>
-      Description of Project 1.
+      Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.
+Mar 2024 - Mar 2024Mar 2024 - Mar 2024
+Create: Involves adding new records to the database. For example, creating a new customer entry in a customer database.
+Read: Involves retrieving or reading existing records from the database. For example, fetching the details of a specific customer from the database.
+Update: Involves modifying existing records in the database. For example, updating the email address of a customer in the database.
+Delete: Involves removing existing records from the database. For example, deleting a customer record from the database.
       <br>
-      <a href="https://github.com/rishisoni90/project1">Repository Link</a>
+      <a href="https://github.com/rishisoni90/project1">git@github.com:rishisoni90/FullStack-Angular-SpringBoot-.git</a>
     </td>
     <td>
-      <b>Project 2</b>
+      <b>CRUD Spring</b>
       <br>
-      Description of Project 2.
+      Basic CRUD Operations
       <br>
-      <a href="https://github.com/rishisoni90/project2">Repository Link</a>
+      <a href="https://github.com/rishisoni90/project2">git@github.com:rishisoni90/CRUD-Spring.git</a>
     </td>
-    <td>
-      <b>Project 3</b>
-      <br>
-      Description of Project 3.
-      <br>
-      <a href="https://github.com/rishisoni90/project3">Repository Link</a>
-    </td>
+  
   </tr>
 </table>
 
