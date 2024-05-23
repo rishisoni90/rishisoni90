@@ -72,7 +72,7 @@ I always have solutions to any problems.
 <table>
   <tr>
     <td>
-      <b>FullStack-Angular-SpringBoot</b>
+      <b>1. FullStack-Angular-SpringBoot</b>
       <br>
       Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.
 Mar 2024 - Mar 2024Mar 2024 - Mar 2024
@@ -84,7 +84,7 @@ Delete: Involves removing existing records from the database. For example, delet
       <a href="https://github.com/rishisoni90/project1">git@github.com:rishisoni90/FullStack-Angular-SpringBoot-.git</a>
     </td>
     <td>
-      <b>CRUD Spring</b>
+      <b>2. CRUD Spring</b>
       <br>
       Basic CRUD Operations
       <br>
