@@ -67,7 +67,31 @@ I always have solutions to any problems.
 | WebStorm      | 🌩️    |
 | VSCode        | 🧰    |
 
-
+<table>
+  <tr>
+    <td>
+      <b>Project 1</b>
+      <br>
+      Description of Project 1.
+      <br>
+      <a href="https://github.com/rishisoni90/project1">Repository Link</a>
+    </td>
+    <td>
+      <b>Project 2</b>
+      <br>
+      Description of Project 2.
+      <br>
+      <a href="https://github.com/rishisoni90/project2">Repository Link</a>
+    </td>
+    <td>
+      <b>Project 3</b>
+      <br>
+      Description of Project 3.
+      <br>
+      <a href="https://github.com/rishisoni90/project3">Repository Link</a>
+    </td>
+  </tr>
+</table>
 
 # Let's Connect
 
