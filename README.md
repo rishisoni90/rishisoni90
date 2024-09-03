@@ -16,6 +16,8 @@ As a Computer Science Graduate Alumni with a Master's Degree from The University
 
 ## Rishi Soni's Profile
 
+👨‍💻** Currently with:**
+<img src = "https://en.wikipedia.org/wiki/File:Capital_One_logo.svg" style="width: 70px;" >
 
 
 🔭 **Ex Employee with:**  
