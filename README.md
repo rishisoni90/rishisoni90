@@ -16,8 +16,8 @@ As a Computer Science Graduate Alumni with a Master's Degree from The University
 
 ## Rishi Soni's Profile
 
-👨‍💻** Currently with:**
-<img src = "https://imgs.search.brave.com/ZeYUGkfe-xwAfr7xUgYB1pv4RNWqxAPRNgehbFLhJ3o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/Y2FwaXRhbC1vbmUu/c3Zn" style="width: 100px;" >
+👨‍💻 **Currently with:**
+<img src = "(https://imgs.search.brave.com/ZeYUGkfe-xwAfr7xUgYB1pv4RNWqxAPRNgehbFLhJ3o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/dHlwLnVzL2ZpbGUv/Y2FwaXRhbC1vbmUu/c3Zn)" style="width: 100px;" >
 
 
 🔭 **Ex Employee with:**  
