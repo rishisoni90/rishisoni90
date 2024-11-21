@@ -6,7 +6,7 @@
 
 
 
- I'm **Rishi Soni**, a Senior Associate Engineer 👨‍💻 [![Experience](https://img.shields.io/badge/Experience-4%20years%200%20months-orange)](https://github.com/rishisoni90).
+ I'm **Rishi Soni**, a Senior Associate Engineer 👨‍💻 [![Experience](https://img.shields.io/badge/Experience-4%20years%230%20months-orange)](https://github.com/rishisoni90).
 
 
 ## About Me 
