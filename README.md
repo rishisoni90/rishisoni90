@@ -93,7 +93,7 @@ Delete: Involves removing existing records from the database. For example, delet
 | Platform | Link |
 |----------|------|
 | <img src="https://imgs.search.brave.com/Z4tzkHgsMw-bIt6x5iWiYUP3cIEOuKvMnPul3MLE70U/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ibG9n/LndhYWxheHkuY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIx/LzAxL2luZGV4LnBu/Zw" style="width: 40px;">  | 🔗 [https://www.linkedin.com/in/rishi-k-soni](https://www.linkedin.com/in/rishi-k-soni/) |
-| <img src="https://imgs.search.brave.com/sH_RvQbDhmDKjq1BddxSkWgRBmvPQ7JogCHkwu07G2A/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8w/LzBhL0xlZXRDb2Rl/X0xvZ29fYmxhY2tf/d2l0aF90ZXh0LnN2/Zw.svg" style="width: 70px;"> | 💻 [https://leetcode.com/rishisoni420](https://leetcode.com/rishisoni420) |
+| <img src="https://www.google.com/imgres?q=leetcode&imgurl=https%3A%2F%2Fleetcode.com%2Fstatic%2Fimages%2FLeetCode_Sharing.png&imgrefurl=https%3A%2F%2Fleetcode.com%2F&docid=FvKQ9IiC6zPktM&tbnid=cQ8rt18AHdsZYM&vet=12ahUKEwjkn_2A6tKKAxVqTTABHZ4ANZUQM3oECBkQAA..i&w=500&h=260&hcb=2&ved=2ahUKEwjkn_2A6tKKAxVqTTABHZ4ANZUQM3oECBkQAA" style="width: 70px;"> | 💻 [https://leetcode.com/rishisoni420](https://leetcode.com/rishisoni420) |
 
 
 Thanks for stopping by! Let's build something awesome together! 🚀
