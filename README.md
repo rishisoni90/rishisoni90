@@ -71,15 +71,14 @@ I always have solutions to any problems.
 <table>
   <tr>
     <td>
-      <b> FullStack-Angular-SpringBoot</b>
+      <b> AI Chat Box </b>
       <br>
-      Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.Spring Boot CRUD - Foundational Backend Services With Deployment on Aws S3, Elastic Beanstalk, RDS.
-Create: Involves adding new records to the database. For example, creating a new customer entry in a customer database.
-Read: Involves retrieving or reading existing records from the database. For example, fetching the details of a specific customer from the database.
-Update: Involves modifying existing records in the database. For example, updating the email address of a customer in the database.
-Delete: Involves removing existing records from the database. For example, deleting a customer record from the database.
+🤖 Agentic AI Chatbot — Powered by Groq + Streamlit
+A fully working AI chatbot agent built with Python, deployed free on Streamlit Cloud, using the Groq API (free tier) to run Llama 3 — no paid API, no local GPU needed.
+
+🌐 Live Demo
+👉 [Demo](https://placebo.streamlit.app/)
       <br>
-      <a href="https://github.com/rishisoni90/project1">git@github.com:rishisoni90/FullStack-Angular-SpringBoot-.git</a>
     </td>
   </tr>
     <tr>
